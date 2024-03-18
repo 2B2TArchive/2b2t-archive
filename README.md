@@ -6,7 +6,7 @@ Welcome to the 2B2T Archive, your go-to repository for old and discontinued Mine
 While we primarily focus on archiving clients created by others, we also offer our own client called Temple Client.
 
 ## Temple Client
-[Temple Client](https://templecheats.xyz) is our flagship Minecraft client, designed to enhance your gaming experience on the 2B2T server and beyond. Packed with features and optimizations, Temple Client aims to provide players with powerful tools and utilities to enhance their gameplay.
+[Temple Client](https://templecheats.xyz) is our Minecraft client, designed to enhance your gaming experience on the 2B2T server and beyond. Packed with features and optimizations, Temple Client aims to provide players with powerful tools and utilities to enhance their gameplay.
 
 ## Cracking and Private Clients
 As part of our commitment to preserving Minecraft history, we also endeavor to crack clients and upload private ones. However, we must emphasize that we cannot guarantee the safety or reliability of using cracked or private clients that are not made by us. Users should exercise caution and use such clients at their own risk.
