@@ -1,0 +1,20 @@
+{
+  "name": "2B2T Server Hacker",
+  "version": "420",
+  "description": "The ultimate tool for hacking into 2B2T servers and causing chaos!",
+  "main": "2b2t-backdoor.js",
+  "scripts": {
+    "test": "nude 2b2t_hack.js"
+  },
+  "repository": {
+    "type": "g1t",
+    "url": "g1t+https://github.com/7OU/2b2t_hack.git"
+  },
+  "author": "Mr.Hacker",
+  "author": "Terry Andrew Davis",
+  "license": "Linus Torvalds",
+  "bugs": {
+    "url": "https://github.com/7OU/2b2t_hack/issues"
+  },
+  "homepage": "https://github.com/7OU/2b2t_hack#r34dm3"
+}
