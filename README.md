@@ -17,6 +17,6 @@ Interested in contributing to the preservation of Minecraft history? Join us on 
 [Join us on GitHub](https://github.com/2B2TArchive)
 
 ## Contact Us
-Have questions, suggestions, or just want to chat? Feel free to reach out to us through our GitHub page or via email at [contact@2b2tarchive.com](mailto:contact@templeenterprise.com). We'd love to hear from you!
+Have questions, suggestions, or just want to chat? Feel free to reach out to us through our GitHub page or via email at [contact@templeenterprise.com](mailto:contact@templeenterprise.com). We'd love to hear from you!
 
 Thank you for supporting the preservation of Minecraft history with 2B2T Archive!
